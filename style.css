@@ -251,7 +251,7 @@ body {
   align-items: center;
   position: relative;
   overflow: hidden;
-  background-image: url("public/dory-background.png") !important;
+  background-image: url("/public/dory-background.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center !important;
